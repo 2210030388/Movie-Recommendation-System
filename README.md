@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MOVIE-Tickets-Booking-Website
 Movie tickets booking website using Django (Python Web framework).
 
@@ -23,3 +24,6 @@ Movie tickets booking website using Django (Python Web framework).
 
 That's all. Enjoy!  
 Please don't forget to ⭐ the repository if you like it.
+=======
+# Movie-Recommendation-System
+>>>>>>> f4fc956c39a445cbac8e7b6641e9360ad977bd35
